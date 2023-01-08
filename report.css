@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(230deg, #2E86C1,#d590f0,#a1f949,#2E86C1 ,#e8a9a9);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    text-align: center;
+  }
+  button {
+    width: 10%;
+    height: 35px;
+    background-color: #f38a8a;
+    border: none;
+    border-radius: 7px;
+  }  
